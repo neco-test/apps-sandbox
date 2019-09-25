@@ -1,0 +1,8 @@
+project: default
+source:
+  path: testhttpd
+  repoURL: https://github.com/neco-test/apps-sandbox
+destination:
+  namespace: maneki
+  server: https://kubernetes.default.svc
+
