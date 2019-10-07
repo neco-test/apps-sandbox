@@ -4,6 +4,7 @@ metadata:
   name: test
   labels:
     app: testhttpd
+    sample: hoge
 spec:
   containers:
   - image: quay.io/cybozu/testhttpd:0.1.0
